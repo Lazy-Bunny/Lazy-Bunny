@@ -1,7 +1,7 @@
 ## Hey there 👋
 
-#😄 Building up 😄
-#😄 plz stand by 😄
+# 😄 Building up 😄
+# 😄 plz stand by 😄
 <!--
 **Lazy-Bunny/Lazy-Bunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
